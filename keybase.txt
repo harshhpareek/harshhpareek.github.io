@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/harshhpareek
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://harshhpareek.github.io
+  * I am harshhpareek (https://keybase.io/harshhpareek) on keybase.
+  * I have a public key with fingerprint 7690 B458 DEDE 6D6C 1DBB  9A41 A6CE D236 C12E 7ABB
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010126ac888390eb1564306c418944a37562691d2bc4c32ac438ab398217b96e76d80a",
+      "fingerprint": "7690b458dede6d6c1dbb9a41a6ced236c12e7abb",
+      "host": "keybase.io",
+      "key_id": "a6ced236c12e7abb",
+      "kid": "010126ac888390eb1564306c418944a37562691d2bc4c32ac438ab398217b96e76d80a",
+      "uid": "1c1c986b6f18c12bc4d33713fe807f19",
+      "username": "harshhpareek"
+    },
+    "service": {
+      "hostname": "harshhpareek.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1538426759,
+  "expire_in": 157680000,
+  "prev": "7e617379d2cb290182d0c41cc5f75422fbf2d5dba7e9251be5ebd2f67458bbc2",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbSBRRGN5Vs7SrdCOSqHmJzGLOmZkzM0shdIHI7aECibKWOZdxptXd
+dWZWW9ZNurER3Ywg2nwoW3rMrLAbxGZFluFDkQRiQUTuQ08RUUHSGas3Hzsvh/Of
+7/v+//v//8ns0kBl8MmGChQ+G3wXHHp0LRnYczObTQs4TlNCKC1E2eTFmilzvUjU
+pkJIEIEIIDKIpmmSLjIMFCRLIiIy0HRZNiRVQRDpgEJMZCJBg8iSZmBJ1yBQsY6Y
+iqgmGkKtYNqxJuYkHDvmcVkV6SKWFY0yyhBFBFCMdUMGBiKMQokHIFMNjDnRirs+
+gxeHDZetteM8xh+RyfKmwP/nupOTcoAAomsIIxNoPBcnUUlSgWQyTVRNoPtAlzkx
+o4VxtGU4rmUlDIexqJCpFfhPm02Y31zfzRSotU22ZyXxH3cJJ+7FSbzZx3hewg35
+Gl4q4ZPaGY78lYtgO0Z5VzmjjTmuHY8JIcCRxLN9faBImgyRqui1AjuQsB0WsX2E
+oiJN5MfPw9r8WTAEVEnVKSQY6iLQIBV5nwhRTFWRITSxCalCsaEyHSoAM4VhCk2k
+8vlhTKDgG2yNxYUQ5KKe0cQ1XbspZnhJhwmZgUJjWSBYGSifVuKvW6CyYt6/Jazq
+mz6xLrC1tOLXx4bqTPmqD+07842vv+x/YKU/HL20Mdc+xx3a1UnePxo//6m36/EV
+b3Bg5dJlS25k79+deaduS8NLofix7/n6bHRzUe7/kao+E1h+MZwd27+6O9eSWv/w
+9OrP6ZoUuG5Wnb61ZUXH+KsXT/M/i0P1s+qTVSd6CmWLxVMD4rnunq423L9rmFm/
+tn97prd+tQ5e3XG4tKsvc+xmZKKAUgs/ueG6qr2Ng/Nv7/neXVMcxPWXT+ZpQ/7C
+g9bhkk1nLm4ty/e+GZn7uFNcQ92ctmDz0+0zCpl5x7PlLaNvc6PaviW3x1i459C6
+bSfqjgR3jyya+Havc/BIB7CqSyK/AVLGQu4=
+=T9Gj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/harshhpareek
+
+==================================================================
